@@ -1,4 +1,5 @@
 <div>
+	<a href="https://github.com/brunop6">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunop6&layout=compact&langs_count=8&hide=hack,shell&theme=radical"/>
 </div>
 <div>
