@@ -1,5 +1,5 @@
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunop6&layout=compact&langs_count=6&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunop6&layout=compact&langs_count=8&hide=hack,shell&theme=radical"/>
 </div>
 <div>
 	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5">
